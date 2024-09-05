@@ -1,0 +1,11 @@
+ {
+    "id": "modorifice.mycoticmanufactory",
+    "name": "Mycotic Manufactory",
+    "version": "0.0.0",
+    "authors": "Modorifice",
+    "description": "Mushroom!",
+    "requirements": ["crs", "regionkit"],
+    "requirements_names": ["Custom Regions Support", "RegionKit"],
+    "tags": ["Region"],
+    "checksum_override_version": false
+}

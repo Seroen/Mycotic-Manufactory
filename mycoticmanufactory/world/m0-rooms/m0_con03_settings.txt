@@ -1,0 +1,6 @@
+Template: NONE
+Grime: 0.7065217
+Palette: 44459
+EffectColorA: 1
+EffectColorB: 9
+Effects: WaterDepth-0.06521739-20-20, 
