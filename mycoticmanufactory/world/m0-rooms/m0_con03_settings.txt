@@ -3,4 +3,4 @@ Grime: 0.7065217
 Palette: 44459
 EffectColorA: 1
 EffectColorB: 9
-Effects: WaterDepth-0.06521739-20-20, 
+Effects: WaterDepth-0.06521739-20-20, DirtyWater-1-21.99609-86.56094, WaterViscosity-0.2518089-284.5242-84.42657, 
