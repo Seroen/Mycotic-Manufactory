@@ -8,34 +8,40 @@
           <mxGeometry x="160" y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pUQ3ejkgWWw8YafcQ9dp-3" value="GATE_HI_M0" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="160" y="320" width="80" height="80" as="geometry" />
+          <mxGeometry x="160" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9MZPK8-o0bV_knBi3Sjz-4" value="GATE_M0_PS" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+        <mxCell id="9MZPK8-o0bV_knBi3Sjz-4" value="GATE_M0_PS" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;" parent="1" vertex="1">
           <mxGeometry x="1760" y="760" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9MZPK8-o0bV_knBi3Sjz-5" value="GATE_M0_VS" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="960" y="560" width="80" height="80" as="geometry" />
+        <mxCell id="9MZPK8-o0bV_knBi3Sjz-8" value="Irrigation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="520" width="850" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="9MZPK8-o0bV_knBi3Sjz-8" value="Dark Factory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="680" width="560" height="160" as="geometry" />
+        <mxCell id="9MZPK8-o0bV_knBi3Sjz-9" value="Caves" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="520" width="520" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="9MZPK8-o0bV_knBi3Sjz-9" value="Mushroom Ca&lt;span style=&quot;background-color: initial;&quot;&gt;ves&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="680" width="680" height="160" as="geometry" />
+        <mxCell id="9MZPK8-o0bV_knBi3Sjz-10" value="Fungal Chasm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="400" width="80" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="9MZPK8-o0bV_knBi3Sjz-10" value="Fungal Chasm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="480" width="80" height="240" as="geometry" />
+        <mxCell id="9MZPK8-o0bV_knBi3Sjz-14" value="Farm Fields" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="400" width="520" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9MZPK8-o0bV_knBi3Sjz-11" value="Shipping Yard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="320" width="240" height="160" as="geometry" />
+        <mxCell id="fNJnqV45-GyBIAfxgkm3-2" value="Main Factory Buildings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="240" width="520" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="9MZPK8-o0bV_knBi3Sjz-12" value="Rail Line" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="1160" height="40" as="geometry" />
+        <mxCell id="9MZPK8-o0bV_knBi3Sjz-12" value="Rail Line" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="480" width="1440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9MZPK8-o0bV_knBi3Sjz-14" value="Beams" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="320" width="280" height="80" as="geometry" />
+        <mxCell id="9MZPK8-o0bV_knBi3Sjz-15" value="Tanks" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="400" width="520" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9MZPK8-o0bV_knBi3Sjz-15" value="Tanks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="440" height="80" as="geometry" />
+        <mxCell id="fNJnqV45-GyBIAfxgkm3-6" value="Eleveation compensation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="fNJnqV45-GyBIAfxgkm3-8" value="Big Shroom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="240" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fNJnqV45-GyBIAfxgkm3-9" value="Underground Factory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="520" width="550" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
