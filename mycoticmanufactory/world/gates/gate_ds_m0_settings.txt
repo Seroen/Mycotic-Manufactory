@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04324574
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.05434782
+Grime: 0.4021739
+Palette: 4
+EffectColorA: 9
+EffectColorB: 5
+Effects: ReplaceEffectColorA-0.2065217-158-42-Color-0.6413044-0.7173913-0.7065217, Darkness-0.1195652-341-145, Flies-0.04347826-20-20, RockFlea-0.2173913-30-30, 
+PlacedObjects: CommonGateData><483.3577><1042.391><-307~-514~False~False~False~False~False~False~False~False~0~1~1, WaterGateData><181.8845><1094.852><112~-370~False~True~Nrml~Nrml, LightFixture><303.3529><1175.422><RedLight~142.3205~-457~74, LightFixture><663.3761><1174.407><RedLight~-202.6795~-472~50, InsectGroup><185.55><144.9948><-6~97~0~0~WaterGlowworm~0.5, CustomDecal><115.4153><865.6812><-35~641~359~663~341~-55~-87~-375~0~1~0~rustb2~0.3043478~1~0.3043478~1~0.3043478~1~0.3043478~1, CustomDecal><513.4924><811.3002><-29~714~304~675~413~129~19~-328~0~1~0~rust3~0.3043478~1~0.3043478~1~0.3043478~1~0.3043478~1, CustomDecal><627.9587><453.6957><-439~295~111~280~282~-49~0~0~0~1~0~rust3~0.3043478~1~0.3043478~1~0.3043478~1~0.3043478~1, CustomDecal><78.73087><45.19908><155~640~770~399~789~18~0~0~0~1~0~rust2~0.3043476~1~0.3043476~1~0.3043476~1~0.3043476~1, ClimbablePoleV><233.1971><444.4661><0^3, ClimbablePoleV><736.7674><434.1992><0^4, BubbleGrass><752.7294><997.801><0~0~4~9, BubbleGrass><813.0288><1032.42><0~0~4~9, BubbleGrass><150.1276><1028.654><0~0~4~9, 
+AmbientSounds: SPOT><am_ind-50hz.ogg><733.4296><506.588><0.1630435><1><481.4296><1046.588><-232.3553><-122.3553><0><0.1869567, OMNI><so_wat-openflow.ogg><733.169><234.8171><0.1521739><1, SPOT><so_ind-boiler.ogg><717.4991><292.95><0.2934783><1><514.4991><283.95><-247.3553><-83.35535><0><0.1869567, 
+FadePalette: 8, 0.4021739, 0.4021739
+MorePalette0: 44459, 0.2826087, 0.1847826
+MorePalette1: 1, 0.1304348, 0.1304348
