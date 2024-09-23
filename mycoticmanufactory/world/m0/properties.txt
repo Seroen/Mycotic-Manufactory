@@ -9,4 +9,4 @@ overseersMin: 0
 overseersMax: 4
 playerGuideOverseerSpawnChance: 0.7
 Subregion: Mycotic Manufactory
-Room Setting Templates: Outside
+Room Setting Templates: Outside, Inside
