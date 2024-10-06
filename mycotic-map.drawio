@@ -1342,6 +1342,9 @@
             <mxPoint x="600" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VU-PeA1ox33Vxl0hnjmd-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Color Key&lt;/h1&gt;&lt;div&gt;Text:&lt;/div&gt;&lt;div&gt;White = Un-started&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Yellow = In-progress&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Green = Complete&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Border:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Red = Inspectnerd&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Yellow = QuaintSaint&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Green = Seroen&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="160" height="320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
