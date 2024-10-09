@@ -1343,7 +1343,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VU-PeA1ox33Vxl0hnjmd-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Color Key&lt;/h1&gt;&lt;div&gt;Text:&lt;/div&gt;&lt;div&gt;White = Un-started&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Yellow = In-progress&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Green = Complete&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="160" height="120" as="geometry" />
+          <mxGeometry x="40" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VU-PeA1ox33Vxl0hnjmd-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Room Claims&lt;/h1&gt;&lt;div&gt;GATE_DS_M0 - Quaint - Complete&lt;/div&gt;&lt;div&gt;B_TWR - Quaint - Complete&lt;/div&gt;&lt;div&gt;B_FIS - Quaint - Complete&lt;/div&gt;&lt;div&gt;M_BOT - Void - In-progress&lt;/div&gt;&lt;div&gt;GATE_M0_PS - Void - In-Progress&lt;/div&gt;&lt;div&gt;I_HUB - Seroen - In-Progress&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" width="250" height="440" as="geometry" />
