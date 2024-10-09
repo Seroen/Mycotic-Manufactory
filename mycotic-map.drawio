@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="XTcU6Ef8AxEBCsLpcCzg">
-    <mxGraphModel dx="1434" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1348,7 +1348,7 @@
         <mxCell id="VU-PeA1ox33Vxl0hnjmd-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Room Claims&lt;/h1&gt;&lt;div&gt;GATE_DS_M0 - Quaint - Complete&lt;/div&gt;&lt;div&gt;B_TWR - Quaint - Complete&lt;/div&gt;&lt;div&gt;B_FIS - Quaint - Complete&lt;/div&gt;&lt;div&gt;M_BOT - Void - In-progress&lt;/div&gt;&lt;div&gt;GATE_M0_PS - Void - In-Progress&lt;/div&gt;&lt;div&gt;I_HUB - Seroen - In-Progress&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" width="250" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="8T-iWhcy-heiZPLYUTya-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Room Types&lt;/h1&gt;&lt;div&gt;&lt;div&gt;H - HI connection&lt;/div&gt;&lt;div&gt;R - Rail line&lt;/div&gt;&lt;div&gt;F - Fields&lt;/div&gt;&lt;div&gt;I - Irrigation&lt;/div&gt;&lt;div&gt;B - Building&lt;/div&gt;&lt;div&gt;D - Dark Factory&lt;/div&gt;&lt;div&gt;M - Mushroom Chasm&lt;/div&gt;&lt;div&gt;C - Caves (what i want to put in the gap between dark factory and chasm)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8T-iWhcy-heiZPLYUTya-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Room Types&lt;/h1&gt;&lt;div&gt;&lt;div&gt;H - HI connection&lt;/div&gt;&lt;div&gt;R - Rail line&lt;/div&gt;&lt;div&gt;F - Fields&lt;/div&gt;&lt;div&gt;I - Irrigation&lt;/div&gt;&lt;div&gt;B - Building&lt;/div&gt;&lt;div&gt;D - Dark Factory&lt;/div&gt;&lt;div&gt;M - Mushroom Chasm&lt;/div&gt;&lt;div&gt;C - Caves&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" width="230" height="180" as="geometry" />
         </mxCell>
       </root>
