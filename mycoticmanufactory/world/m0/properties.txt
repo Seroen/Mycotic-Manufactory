@@ -1,4 +1,3 @@
-
 Palette: 44459
 batDepleteCyclesMin: 2
 batDepleteCyclesMax: 7
@@ -10,3 +9,4 @@ overseersMax: 4
 playerGuideOverseerSpawnChance: 0.7
 Subregion: Mycotic Manufactory
 Room Setting Templates: Outside, Inside
+Room_Attr: LF_E04: Vulture-Like,KingVulture-Like,Deer-Stay,
