@@ -1,0 +1,5 @@
+Template: M0_SettingsTemplate_Inside
+DangerType: None
+Effects: Fog-0-40-40, 
+AmbientSounds: OMNI><AM_IND-50hz.ogg><714.6996><445.7622><0.1956522><1, OMNI><AM_IND-DeepHum.ogg><489.1976><456.4692><0.1086956><1, 
+FadePalette: 0, 0
