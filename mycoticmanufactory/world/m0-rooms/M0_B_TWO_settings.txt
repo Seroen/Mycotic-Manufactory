@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.4253285
+Palette: 44459
+EffectColorA: 2
+EffectColorB: 9
+Effects: Fog-0.4253285-20-20, ReplaceEffectColorB-0.1956522-1070-161-Color-0.6304348-0.7173913-0.7173913, Flies-0.2065217-211-66, RockFlea-0.2717391-300-14, Moth-0.06521739-168-121, 
+PlacedObjects: Mushroom><269.7563><356.3257><0~0~2~3, Mushroom><296.0881><350.7333><0~0~2~3, PuffBall><145.7336><486.369><-17.78644~33.42224~2~3, PuffBall><114.1863><514.4296><0~0~2~3, PuffBall><185.4541><493.9045><0~0~2~3, 
+AmbientSounds: OMNI><am_ind-factory04.ogg><702.5263><312.5001><0.1906705><1, OMNI><msc-shadowgully.ogg><733.3383><390.9312><0.2448034><1, 
+FadePalette: 5, 0.1623981
+MorePalette0: 8, 0.1521739
