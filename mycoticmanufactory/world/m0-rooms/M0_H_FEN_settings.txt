@@ -1,0 +1,10 @@
+Template: NONE
+CeilingDrips: 0.01086957
+Grime: 0
+Palette: 44459
+EffectColorA: 2
+EffectColorB: 9
+Effects: Fog-0.6956522-20-20, Flies-0.07608695-306-25, RockFlea-0.1630435-314-113, CorruptionSpores-1-1053-177, 
+PlacedObjects: GooieDuck><380.8004><925.7623><686~364~0~3, GooieDuck><303.4308><867.6646><763~343~2~3, 
+AmbientSounds: OMNI><AM_IND-Factory03.ogg><753.3008><426.2315><0.1195652><1, OMNI><AM_IND-Utility02.ogg><745.1907><276.441><0.2391304><1, OMNI><AM_ENV-LightWind.ogg><745.3885><345.8558><0.3586957><1, DIR><AM_ENV-Outside.ogg><415.5559><375.2982><1><1><89.81698><0.05434782, 
+FadePalette: 5, 0, 0.05434782, 0.1086956, 0.1304348
