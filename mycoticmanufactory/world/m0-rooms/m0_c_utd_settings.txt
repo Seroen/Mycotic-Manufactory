@@ -1,0 +1,7 @@
+Template: M0_SettingsTemplate_Inside
+EffectColorA: 2
+EffectColorB: 9
+Effects: DirtyWater-1-40-40, WaterViscosity-0.255197-254.1886-74.90105, 
+PlacedObjects: DeadHazer><495.1761><369.9093><-86.08649~73.28021~7~10, DeadHazer><315.1904><345.3886><-113.8333~91.77814~7~10, DeadHazer><782.4791><406.5047><0~0~7~10, LightSource><699.6328><1174.952><0.3504086~Environment~-76.83746~110.6718~50~86.60254~1~1~None~0~0, GooieDuck><766.496><1362.93><0~0~2~3, GooieDuck><695.347><1393.516><0~0~2~3, GooieDuck><552.6797><1368.673><-93.20099~-27.03534~2~3, 
+FadePalette: 5, 0.2065217, 0.2065217
+MorePalette0: 10, 0.4562624, 0.502661
