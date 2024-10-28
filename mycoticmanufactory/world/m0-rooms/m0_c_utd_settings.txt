@@ -1,7 +1,15 @@
 Template: M0_SettingsTemplate_Inside
+CeilingDrips: 0
+WaveSpeed: 0.4699616
+WaveLength: 0.9849808
+WaveAmplitude: 8.999999E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 44460
 EffectColorA: 2
 EffectColorB: 9
-Effects: DirtyWater-1-40-40, WaterViscosity-0.255197-254.1886-74.90105, 
-PlacedObjects: DeadHazer><495.1761><369.9093><-86.08649~73.28021~7~10, DeadHazer><315.1904><345.3886><-113.8333~91.77814~7~10, DeadHazer><782.4791><406.5047><0~0~7~10, LightSource><699.6328><1174.952><0.3504086~Environment~-76.83746~110.6718~50~86.60254~1~1~None~0~0, GooieDuck><766.496><1362.93><0~0~2~3, GooieDuck><695.347><1393.516><0~0~2~3, GooieDuck><552.6797><1368.673><-93.20099~-27.03534~2~3, 
+Effects: DirtyWater-1-40-40, WaterViscosity-0.255197-254.1886-74.90105, Darkness-0.6573261-50-50, 
+PlacedObjects: DeadHazer><495.1761><369.9093><188.5364~103.1615~7~10, DeadHazer><315.1904><345.3886><-261.8166~190.6708~7~10, DeadHazer><782.4791><406.5047><0~0~7~10, GooieDuck><766.496><1362.93><0~0~2~3, GooieDuck><695.347><1393.516><0~0~2~3, GooieDuck><552.6797><1368.673><-93.20099~-27.03534~2~3, LightSource><820.4158><1256.302><0.4045397~EffectColor2~-37.70734~-0.3157043~171.6594~-141.7756~0~1~None~0~0, LightSource><816.9165><1258.354><0.7525356~EffectColor2~-110.9876~-48.69495~40.75098~-336.7151~0~0~None~0~0, LightSource><398.8677><454.9552><0.4045397~EffectColor2~-39.84171~-6.718811~171.6594~-141.7756~0~1~None~0~0, LightSource><397.4448><454.2437><0.7061356~EffectColor2~-110.9876~-48.69495~40.75098~-336.7151~0~0~None~0~0, LightSource><817.6793><1256.814><0.2034753~EffectColor2~-579.1271~-269.2469~91.26453~8.342102~0~0~None~0~0, LightSource><397.4448><454.2436><0.2034753~EffectColor2~546.4001~299.9197~91.26453~8.342102~0~0~None~0~0, 
 FadePalette: 5, 0.2065217, 0.2065217
-MorePalette0: 10, 0.4562624, 0.502661
+WetTerrain: OFF
+MorePalette0: 10, 0.8530685, 0.9047898
