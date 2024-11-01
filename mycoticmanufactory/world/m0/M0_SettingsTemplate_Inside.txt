@@ -14,7 +14,7 @@ BkgDroneNoThreatVolume: 1
 RandomItemDensity: 0.5
 RandomItemSpearChance: 0.2
 WaterReflectionAlpha: 1
-Palette: 44459
+Palette: 44460
 EffectColorA: 9
 EffectColorB: 2
 Effects: Fog-0.2065217-104-100, Flies-0.07608695-20-20, Moth-0.04347826-30-30, ReplaceEffectColorB-0.1847826-707-396-Color-0.6304348-0.7173913-0.7065217, 
