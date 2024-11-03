@@ -1,0 +1,4 @@
+Template: M0_SettingsTemplate_Inside
+Grime: 0.2065217
+Effects: Fog-0-40-40, 
+FadePalette: 10, 0.1086956, 0.25
