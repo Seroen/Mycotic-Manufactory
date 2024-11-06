@@ -1,0 +1,24 @@
+Template: NONE
+DangerType: Rain
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.75
+WaveLength: 0.5
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.3369565
+Grime: 0.3695652
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 44459
+EffectColorA: 2
+EffectColorB: 9
+Effects: ReplaceEffectColorB-0.3804348-120-46-Color-0.6304348-0.7173913-0.7173913, Fog-0.423913-341-104, CorruptionSpores-0.25-35-85, RockFlea-0.2934783-20-20, Flies-0.09782609-30-30, 
+PlacedObjects: Mushroom><407.4202><247.855><42~-198~2~3, Mushroom><781.4465><170.7131><0~0~2~3, Mushroom><429.95><242.2521><-1~-87~2~3, LightBeam><427.5605><234.0641><235~500~926~495~927~-255~0~0~0.1608694~0~0.6195652~1~None~0~0, ClimbablePoleV><945.1056><155.6117><0^3, 
+AmbientSounds: OMNI><AM_IND-Factory03.ogg><588.7102><238.946><0.2173913><1, OMNI><AM_IND-Utility02.ogg><521.1611><370.1792><0.2282609><1, OMNI><AM_ENV-LightWind.ogg><737.5905><519.8794><0.1956522><1, 
+FadePalette: 5, 0.1195652
