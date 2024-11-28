@@ -8,5 +8,5 @@ overseersMin: 0
 overseersMax: 4
 playerGuideOverseerSpawnChance: 0.7
 Subregion: Mycotic Manufactory
-Room Setting Templates: Outside, Inside
+Room Setting Templates: Outside, Inside, Chasm
 Room_Attr: LF_E04: Vulture-Like,KingVulture-Like,Deer-Stay,
