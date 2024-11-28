@@ -1,0 +1,21 @@
+DangerType: Flood
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.5107486
+WaveLength: 0.9946257
+WaveAmplitude: 0.03523567
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0
+Grime: 0.2332034
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 359
+EffectColorA: 2
+EffectColorB: 16
+Effects: LightRain-0.2261975-20-20, SilenceWater-0.8003905-30-30, WaterDepth-0.0326087-40-40, RedSwarmer-0.3043478-50-50, Moth-0.5108696-60-60, FireFlies-0.4130435-70-70, 
+AmbientSounds: OMNI><am_win-subwnd.ogg><721.871><517.1528><0.3152174><1, OMNI><am_nat-forestrain.ogg><740.5563><382.0498><0.4565217><1, OMNI><am_env-subterr.ogg><508.8857><518.3969><0.07608695><1, OMNI><am_env-windgrass.ogg><539.9487><360.4776><0.6086956><1, OMNI><so_sfx-lakebottom.ogg><717.477><280.8707><0.1630435><1, OMNI><so_wat-runningwater.ogg><476.2409><444.8816><0.2173913><1, OMNI><so_wat-rainishdrips.ogg><690.3269><470.3998><0.5><1, OMNI><so_wat-splashes.ogg><731.9991><448.1866><0.2282609><1, OMNI><so_sfx-celia.ogg><712.6411><191.6879><0.1056048><1, OMNI><am_env-lushnight.ogg><706.6588><532.7997><0.1636034><1, OMNI><so_wat-lildrips.ogg><325.0905><377.1107><0.5><1, 
