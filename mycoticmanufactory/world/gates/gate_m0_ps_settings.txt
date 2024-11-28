@@ -1,0 +1,9 @@
+Template: M0_SettingsTemplate_Chasm
+WaveSpeed: 0.5107486
+WaveLength: 0.9946257
+WaveAmplitude: 0.03523567
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0.2332034
+PlacedObjects: LightSource><643.1727><260.1008><0.1630432~EffectColor1~158~-148~50~86.60254~0~1~None~0~0, LightSource><452.1376><311.8549><0.173913~EffectColor1~56~159~50~86.60254~0~1~None~0~0, LightSource><1181.088><383.1794><0.173913~EffectColor2~37~200~-356~-41.39746~0~1~None~0~0, LightSource><830.0278><383.8019><0.1630435~EffectColor2~128~121~-306~58.60254~0~1~None~0~0, LightSource><2073.114><376.6468><0.1847826~EffectColor2~101~196~-391~36.60254~0~1~None~0~0, LightSource><1866.091><373.6214><0.173913~EffectColor2~12~172~50~86.60254~0~1~None~0~0, LightSource><2105.193><421.3082><0.1630435~EffectColor1~37~253~-316~91.60254~0~1~None~0~0, LightSource><2494.052><415.7755><0.2065217~EffectColor2~24~143~-88~-81.39746~0~1~None~0~0, LightSource><2305.228><375.9487><0.173913~EffectColor2~48~153~50~86.60254~0~1~None~0~0, LightBeam><1300.45><260.9869><185~393~242~398~78~-71~-218~-173~0.4108694~0~0~0~None~0~0, LightBeam><1552.738><257.3004><64~398~99~403~72~-52~0~0~0.4434781~0~0~0~None~0~0, CommonGateData><1526.541><254.3242><100~50~False~False~False~False~False~False~False~False~0~1~1, WaterGateData><1511.604><546.2022><-288.9899~-297.2~False~False~Nrml~Hiddn, 
+AmbientSounds: OMNI><am_env-windgrass.ogg><539.9487><360.4776><0><1, SPOT><so_wat-splashes.ogg><711.5797><441.0173><0.5><1><1428.719><149.8173><-35.35534><-35.35534><0><0.1463995, SPOT><so_wat-splashes.ogg><676.5281><443.3814><0.5><1><1609.239><149.5147><-35.35534><-35.35534><0><0.1463995, 
