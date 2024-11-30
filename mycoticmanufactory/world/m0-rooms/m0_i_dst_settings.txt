@@ -1,3 +1,4 @@
 Template: M0_SettingsTemplate_Inside
 Grime: 0.75
 FadePalette: 10, 0.5, 0.5, 0.5, 0.5
+MorePalette0: 4, 0.3043478, 0.1956522, 0.08695652, 0
