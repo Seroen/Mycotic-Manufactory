@@ -1,0 +1,6 @@
+Template: M0_SettingsTemplate_Chasm
+EffectColorA: 9
+Effects: ReplaceEffectColorA-0.3804348-827-425-Color-0.6304348-0.7173913-0.7173913, 
+PlacedObjects: LightSource><506.8369><603.1801><0.1195649~EffectColor2~-109~-175~-232~-205.3975~0~1~None~0~0, LightSource><316.7793><673.1979><0.09782638~EffectColor2~-86~-275~-202~-202.3974~0~1~None~0~0, LightSource><662.8426><386.8227><0.1086956~EffectColor2~-430~173~50~86.60254~0~1~None~0~0, LightSource><408.5919><844.1226><0.1086956~EffectColor2~-125~356~50~86.60254~0~1~None~0~0, LightSource><320.7141><969.8032><0.1195652~EffectColor2~98~232~-262~-57.39746~0~1~None~0~0, LightSource><530.9348><1182.923><0.09782609~EffectColor2~261~153~50~86.60254~0~1~None~0~0, LightSource><447.501><287.55><0.1086956~EffectColor2~106~375~50~86.60254~0~1~None~0~0, LightSource><295.7755><1084.302><0.1086956~EffectColor1~94~250~50~86.60254~1~1~None~0~0, LightSource><576.9332><1315.42><0.1304348~EffectColor1~-248~4~-203~-153.3975~0~1~None~0~0, LightSource><668.9445><1254.547><0.09782609~EffectColor1~-275~87~55~-152.3975~0~1~None~0~0, LightSource><382.8436><1276.677><0.1086956~EffectColor1~350~-209~-28~-173.3975~0~1~None~0~0, 
+AmbientSounds: OMNI><am_env-windgrass.ogg><539.9487><360.4776><0><1, 
+FadePalette: 44460, 0.2282609, 0.1630435
