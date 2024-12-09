@@ -1,0 +1,4 @@
+Template: M0_SettingsTemplate_Inside
+PlacedObjects: LightSource><518.5502><399.4901><0.04347826~EffectColor2~0~100~50~86.60254~0~1~None~0~0, LightSource><610><390><0.02173915~EffectColor2~17~75~50~86.60254~0~1~None~0~0, LightSource><397><395><0.02173913~EffectColor2~7~72~50~86.60254~0~1~None~0~0, LightSource><602><229><0.05434786~EffectColor2~25~74~50~86.60254~0~1~None~0~0, CustomDecal><418.1981><127.7778><-18~314~275~327~246~-31~-354~87.99998~0~1~0.4891304~mushdarkest~0.07608695~0.7282609~0.07608695~0.7282609~0.07608695~0.7282609~0.07608695~0.7282609, 
+AmbientSounds: DIR><SO_WAT-LightFlow.ogg><218.9852><362.9495><0.2065217><1><1.621146><0, 
+FadePalette: 10, 0.4782609
