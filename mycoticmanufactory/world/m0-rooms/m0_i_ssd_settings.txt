@@ -1,0 +1,6 @@
+Template: M0_SettingsTemplate_Inside
+WaterReflectionAlpha: 0.2576092
+Effects: WaterDepth-0.03093288-40-40, 
+PlacedObjects: CGDrySpot><1671.126><66.0893><100~50~1665.92^270.0385~True~Sync, GooieDuck><701.6499><504.9988><0~0~2~3, GooieDuck><317.4028><519.8865><-276.7573~17.7865~2~3, GooieDuck><558.0235><498.9344><-1.422913~-102.45~2~3, GooieDuck><454.7327><526.7397><-134.4656~158.6552~2~3, GooieDuck><2669.192><616.7655><0~0~2~3, GooieDuck><2144.429><632.6849><0~0~2~3, GooieDuck><2259.557><612.4117><0~0~2~3, ReliableSpear><1492.575><495.8353><, ReliableSpear><1153.199><353.0307><, 
+FadePalette: 5, 0.2046308, 0.204631, 0.2046308
+MorePalette0: 10, 0.5567939, 0.5799932, 0.6341274
